@@ -1,0 +1,2 @@
+# ModX
+Discord Moderation Bot
