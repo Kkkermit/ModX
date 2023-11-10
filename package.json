@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.9.0",
+    "discord-giveaways": "^6.0.1",
+    "discord-logs": "^2.2.1",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "install": "^0.13.0",
+    "mongodb": "^5.7.0",
+    "mongoose": "^6.0.12",
+    "node-fetch": "^3.3.2",
+    "npm": "^9.8.1",
+    "os": "^0.1.2",
+    "perf_hooks": "^0.0.1"
+  },
+  "name": "modx",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
